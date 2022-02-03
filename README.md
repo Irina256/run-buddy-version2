@@ -13,3 +13,5 @@ https://irina256.github.io/run-buddy-version2/
 ## Contribution
 Made with ❤️ by Irina
 
+### @2019 Run Buddy, Inc
+
